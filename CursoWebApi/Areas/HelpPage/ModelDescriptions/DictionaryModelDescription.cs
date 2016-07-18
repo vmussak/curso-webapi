@@ -1,0 +1,6 @@
+namespace CursoWebApi.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
